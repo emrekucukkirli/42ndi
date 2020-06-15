@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-ExtraBold.woff2') format('woff2'),
+        url('subset-Graphie-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-Regular.woff2') format('woff2'),
+        url('subset-Graphie-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-Light.woff2') format('woff2'),
+        url('subset-Graphie-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-SemiBoldItalic.woff2') format('woff2'),
+        url('subset-Graphie-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-LightItalic.woff2') format('woff2'),
+        url('subset-Graphie-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-ExtraLightItalic.woff2') format('woff2'),
+        url('subset-Graphie-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-Bold.woff2') format('woff2'),
+        url('subset-Graphie-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphie Book';
+    src: url('subset-Graphie-BookItalic.woff2') format('woff2'),
+        url('subset-Graphie-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-ExtraBoldItalic.woff2') format('woff2'),
+        url('subset-Graphie-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphie Book';
+    src: url('subset-Graphie-Book.woff2') format('woff2'),
+        url('subset-Graphie-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-SemiBold.woff2') format('woff2'),
+        url('subset-Graphie-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-Thin.woff2') format('woff2'),
+        url('subset-Graphie-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-Italic.woff2') format('woff2'),
+        url('subset-Graphie-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-ExtraLight.woff2') format('woff2'),
+        url('subset-Graphie-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-BoldItalic.woff2') format('woff2'),
+        url('subset-Graphie-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphie';
+    src: url('subset-Graphie-ThinItalic.woff2') format('woff2'),
+        url('subset-Graphie-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+

@@ -274,7 +274,20 @@ body {
 	padding-left: 1% ;
 	height: auto;
 }
-
+.works-carousel .owl-dots {
+	margin-top: 15px;
+}
+.works-carousel .owl-dots .owl-dot span {
+	width: 10px !important;
+	height: 10px !important;
+	border-radius: 8px !important;
+}
+.works-carousel .owl-dots .owl-dot span {
+	background-color: #eaeaea !important;
+}
+.works-carousel .owl-dots .active span {
+	background-color: #5ab577 !important;
+}
 
 /* Clients */
 
@@ -330,17 +343,12 @@ body {
 	margin-right: auto;
 	max-width: 1920px;
     width: 100%;
-	/* max-height: 215px; */
     height: auto;
     background-color: #eaeaea;
 }
 
-.owl-carousel {
+.clients-carousel {
     width: 1660px !important;
-}
-
-.owl-dots {
-	display: none;	
 }
 
 .owl img {
@@ -353,10 +361,25 @@ body {
 	padding-bottom: 20px;
 
 }
-
 .owl-nav {
-	width: 100%;
-	font-size: 40px;
+	display: none;
+}
+.clients-carousel .owl-dots {
+	position: absolute;
+	margin-top: 15px;
+}
+.clients-carousel .owl-dots .owl-dot span {
+	width: 20px !important;
+	height: 10px !important;
+	border-radius: 8px !important;
+}
+
+.clients-carousel .owl-dots .owl-dot span {
+	background-color: #eaeaea !important;
+}
+
+.clients-carousel .owl-dots .active span {
+	background-color: #5ab577 !important;
 }
 
 /* 42nci */
